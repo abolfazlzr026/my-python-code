@@ -1,0 +1,4 @@
+x="asdasd"
+print(x)
+x2="" .join(reversed(x))
+print(x2)
